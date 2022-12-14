@@ -8,8 +8,8 @@
 4. 按如下格式执行命令
 git remote set-url origin  https://<your_token>@github.com/<USERNAME>/<REPO>.git
 
-git remote set-url origin  https://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@github.com/vchangpengfei/study-notes.git
+git remote set-url origin  https://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@github.com/vchangpengfei/study-notes.git
 
-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
+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
 
-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
+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
