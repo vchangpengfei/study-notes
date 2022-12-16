@@ -8,8 +8,9 @@
 4. 按如下格式执行命令
 git remote set-url origin  https://<your_token>@github.com/<USERNAME>/<REPO>.git
 
-git remote set-url origin  https://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@github.com/vchangpengfei/study-notes.git
+git remote set-url origin  https://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@github.com/vchangpengfei/study-notes.git
 
-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
 
-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
+ps:上面的token只能一个设备使用，如果是新设备需要新申请
+
+
